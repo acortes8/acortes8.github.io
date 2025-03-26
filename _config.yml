@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Alejandro Cortes # the main title
 
-tagline: A portfolio of my work. # it will display as the subtitle
+tagline: My own personal site where I talk about projects, things I've learned, and sometimes hobbies. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Portfolio of Alejandro Cortes, a software developer located in Chicago, Illinois. 
