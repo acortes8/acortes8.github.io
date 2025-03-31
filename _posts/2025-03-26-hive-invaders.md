@@ -38,10 +38,10 @@ When I tested that version though it was slightly unpleasing on the eyes, as the
 I figured it was better visually if I made all instances of the enemy switch their direction whenever even one instance of the enemy touched the edge. That change would prevent them from clipping into each other all the time, while also making the enemy seem more hive-minded, like bees should be, fixing that issue.
 
 ## Media
-![Gameplay Image]()
+![Gameplay Image](assets/img/posts/hive-invaders/hive_invaders_demo_0.png)
 _Gameplay Image_
 
-![Gameplay Image]()
+![Gameplay Image](assets/img/posts/hive-invaders/hive_invaders_demo_1.png)
 _Gameplay Image_
 
 ## Links
