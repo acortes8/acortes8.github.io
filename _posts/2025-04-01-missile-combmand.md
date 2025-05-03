@@ -1,12 +1,13 @@
 ---
 title: Missile Combmand
 date: 2025-04-01
-categories: [Projects]
+categories: [Projects, University]
 tags: [projects, university, games, java, javafx]
+description: Two dimensional game based on Missile Command, with a bee theme. Written in Java, with the JavaFX library.
 ---
 
 > The date of this post is not indicative of the date of this project.
-{: .prompt-tip }
+{: .prompt-warning }
 
 ## Description 
 Two dimensional game based on Missile Command. Called Missile *Combmand* as a play-on-words, since it has a bee theme. The player operates a turret to shoot down incoming targets.
@@ -15,21 +16,21 @@ Two dimensional game based on Missile Command. Called Missile *Combmand* as a pl
 This project was also for my event-driven programming class in university. We had another open-ended project, so I again chose to make my project a video game. However for this one I did it in Java, a language that I'm more comfortable than, when compared to Python.
 
 ## Features
-### Controllable Player
+#### Controllable Player
 The player controls a turret at the center-bottom of the screen. Using the left and right arrow keys, the turret can be aimed. Pressing space fires a missile from the turret. This missile flies in a straight line, while in flight the ability to fire another missile is disable, instead by pressing space again, the missile explodes in flight, taking out anything that gets caught in it's blast radius. Once the missile is detonated by the player, or it flies off screen, the ability to fire another missile is restored.
 
-### Four Lives
+#### Four Lives
 In this game you have four "lives", that come in the form of beehives that flank the sides of your turret. Missiles rain from the sky, targeting these beehives. An impact by one of these enemy missiles, destroys the beehive, reducing your lives by one.
 
-### Enemies
+#### Enemies
 Enemies in this game are red missiles that target your beehives. Four missiles will always be in flight. Meaning, as soon as you destroy one missile, another missile spawns to replace it. The missile objects are instantiated with a randomized x coordinate and the coordinates to a beehive. So every missile comes in at a different angle, depending on which beehive it's targeting and where in the sky the missile spawned from.
 
 When an enemy missile makes contact with one of the beehives, a little blast animation is played, and then the beehive is removed from the game's state.  
 
-### Win Condition
+#### Win Condition
 This game has no win condition, it's purely a survive as long as you can type of game. There's a score tracker at the bottom-right of the screen that tells you how many enemy missiles you've shot down so far.
 
-### Lose Condition
+#### Lose Condition
 The player loses in this game by losing all four beehives. When they lose, the canvas is cleared off of all enemy missiles, and a message is painted on the screen to inform the player that they have lost.
 
 ## Tech Stack

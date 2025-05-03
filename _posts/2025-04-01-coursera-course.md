@@ -3,6 +3,7 @@ title: Coursera Course On Ruby
 date: 2025-04-01
 categories: [Miscellaneous]
 tags: [coursera, ruby, certificates]
+description: Someone told me that Coursera had a seven day free-trial, so I wanted to try it out.
 ---
 
 Someone told me that Coursera had a seven day free-trial, so I wanted to try it out.

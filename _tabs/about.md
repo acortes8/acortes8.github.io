@@ -29,7 +29,7 @@ Chirpy is a theme for Jekyll, providing me more features in its layouts. Such as
 ---
 ## About Me
 
-My name is **Alejandro Cortes**, I live in Chicago and I'm looking for an **entry-level** position in Software Development.
+My name is **Alex Cortes**, I live in Chicago and I'm looking for an **entry-level** position in Software Development.
 
 My degree is in **Computer Science**, I graduated from Northeastern Illinois University, both with recognition on the Dean's List and with latin honors, specifically Cum Laude.
 

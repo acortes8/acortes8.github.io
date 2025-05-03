@@ -1,12 +1,13 @@
 ---
 title: Hive Invaders
 date: 2025-03-26
-categories: [Projects]
+categories: [Projects, University]
 tags: [projects, university, games, python, tkinter]
+description: Two dimensional game based on Space Invaders, with a bee theme. Written in Python, with the TKinter library.
 ---
 
-> The date of this post is not indicative of the date of this project. 
-{: .prompt-tip }
+> The date of this post is not indicative of the date of this project.
+{: .prompt-warning }
 
 ## Description 
 Two dimensional game based on Space Invaders. The player controls a yellow bee at the bottom of the screen that can shoot projectiles, while red and blue enemy bees come down from the top of the screen towards you. 
@@ -15,15 +16,15 @@ Two dimensional game based on Space Invaders. The player controls a yellow bee a
 This project was for my event-driven programming class in university. We had very open-ended requirements from our professor for the projects of this class, so it was very enjoyable being able to work on something with a lot of freedom of choice. While we learned a lot of subtopics in that class, the unit we did on games as a medium of event-driven programming was one that I found the most enjoyable, so I decided to make a version of Space Invaders.
 
 ## Features
-### Controllable Player
+#### Controllable Player
 The player controls a yellow bee that starts at the bottom-center of the screen. Using the left and right arrow keys, the bee can move side to side. Pressing the space bar fires a projectile from the yellow bee.
-### Enemies
+#### Enemies
 Enemies in this game are also bees, but they're either red or blue, and they start at the top of the screen. They move side to side automatically, and every time any of them hit the edge of the screen, all of them will move down the screen a certain distance, and switch their direction towards the other side of the screen, in unison. 
-### Win Condition
+#### Win Condition
 The player can win by using their projectiles to destroy the incoming wave of enemies. A message box pops up to let you know that you won, and prompts you to either play again, or quit the application.
-### Lose Condition
+#### Lose Condition
 The player can lose by letting any enemies reach the bottom of the screen. A message box pops up to let you know that you lost, and prompts you to either play again, or quit the application. 
-### Second Difficulty
+#### Second Difficulty
 After the player wins, if they select to play again in the message box prompt, the game will change up a bit. A restart function resets the game's canvas and spawns in the enemies again, but this time it initializes the enemies with different speeds depending on their color, making them trickier to shoot down.
 
 
