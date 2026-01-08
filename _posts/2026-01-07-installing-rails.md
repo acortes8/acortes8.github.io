@@ -13,7 +13,7 @@ tags: [mac, rails, guides, learning, installing]
 -  Docker (optional, but good practice to for isolating your development environment from your actual computer for easier deployments).
 
 ## Installing Ruby
-Refer to [[Installing Ruby (MacOS)]].
+Refer to [Installing Ruby (MacOS)](https://acortes8.github.io/posts/installing-ruby/).
 
 ## Installing Rails
 1. Run the following command in your terminal:

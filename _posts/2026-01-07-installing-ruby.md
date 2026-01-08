@@ -8,7 +8,7 @@ tags: [mac, ruby, guides, learning, installing]
 MacOS usually ships with Ruby already, albeit older versions of Ruby. You'll need to download a newer version of Ruby. Easiest way to do this would be to use Homebrew. 
 
 ## Installing Homebrew
-Refer to [[Installing Homebrew (MacOS)]].
+Refer to [Installing Homebrew (MacOS)](https://acortes8.github.io/posts/installing-homebrew/).
 
 ## Installing Ruby
 > Homebrew is required to be installed for either path of installing Ruby.
