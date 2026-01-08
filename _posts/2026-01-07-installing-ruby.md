@@ -11,7 +11,8 @@ MacOS usually ships with Ruby already, albeit older versions of Ruby. You'll nee
 Refer to [[Installing Homebrew (MacOS)]].
 
 ## Installing Ruby
->[!info] Homebrew is required to be installed for either path of installing Ruby.
+> Homebrew is required to be installed for either path of installing Ruby.
+{: .prompt-info }
 
 Install Ruby, by either using homebrew (which will install the latest version of Ruby by default) or mise-en-place (which will let you pick which versions of Ruby to install and let's you switch between versions easily).
 
