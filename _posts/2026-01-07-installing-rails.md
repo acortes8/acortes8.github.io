@@ -41,7 +41,8 @@ $ rails _8.0.2_ --version
 ~~~
 
 What this will do is generate a file named Gemfile in the current directory with the following contents:
->[!info] The strange syntax is called a *twiddle-wakka*, or (more formally) the pessimistic version operator. It means that you're asking for the latest version of Rails that's compatible with 8.0.2.
+> The strange syntax is called a *twiddle-wakka*, or (more formally) the pessimistic version operator. It means that you're asking for the latest version of Rails that's compatible with 8.0.2.
+{: .prompt-info }
 ~~~Gemfile
 gem "rails", "~> 8.0.2"
 ~~~
