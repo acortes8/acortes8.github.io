@@ -12,7 +12,7 @@ tags: [mac, rails, guides, learning, installing]
 - A database (SQLite 3 is used by default, PostgreSQL is more scalable but requires additional set up)
 -  Docker (optional, but good practice to for isolating your development environment from your actual computer for easier deployments).
 ## Installing Ruby
-Refer to [Installing Ruby (MacOS)]().
+Refer to [[Installing Ruby (MacOS)]].
 ## Installing Rails
 1. Run the following command in your terminal:
 ~~~shell
