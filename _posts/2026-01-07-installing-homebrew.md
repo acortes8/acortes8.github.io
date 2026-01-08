@@ -2,7 +2,7 @@
 title: Installing Homebrew (MacOS)
 date: 2026-01-07
 categories: [Learning, Guides]
-tags: [mac, homebrew, guides, learning installing]
+tags: [mac, homebrew, guides, learning, installing]
 ---
 
 1. Open the terminal.
