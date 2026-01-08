@@ -11,14 +11,17 @@ tags: [mac, rails, guides, learning, installing]
 - Some libraries (depending on operating system being used).
 - A database (SQLite 3 is used by default, PostgreSQL is more scalable but requires additional set up)
 -  Docker (optional, but good practice to for isolating your development environment from your actual computer for easier deployments).
+
 ## Installing Ruby
 Refer to [[Installing Ruby (MacOS)]].
+
 ## Installing Rails
 1. Run the following command in your terminal:
 ~~~shell
 $ gem install rails -v 8.0.2 --no-document
 ~~~
 2. Done.
+
 ## Choosing a Rails version
 Occasionally, you might want to run another version of Rails. What follows are some things to know.
 
@@ -49,5 +52,6 @@ $ bundle install
 ~~~
 
 If needed, you can also pin to a specific version of Rails by replacing the twiddle-wakka with an equals sign.
+
 ## Databases
 Rails supports many different databases. All of them, minus SQLite 3, will require a database driver to be installed for Rails to connect with it.
