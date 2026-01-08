@@ -4,11 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+---
 ## Welcome
 My intention with this website is for it to be a showcase of things that I am working on and learning.
 
 This includes highlighting personal projects, making guides for myself to reference, and maybe even hobbies. 
 
+---
 ## Myself
 A graduate of Northeastern Illinois University, with a degree in Computer Science. Recognized on both the Dean's List and with Cum Laude. 
 
@@ -17,6 +19,7 @@ Some of my interests outside of programming include:
 * Photography
 * Beekeeping
 
+---
 ## Skills
 
 | Languages  | Frameworks & Libraries | Developer Tools | Etc.       |
@@ -28,11 +31,13 @@ Some of my interests outside of programming include:
 | HTML       | Hotwire                | Heroku          |            |
 | CSS        |                        | AWS             |            |
 
+---
 ## Socials
 Visit my [Github](https://github.com/acortes8 "My Github profile")<br>
 Visit my [LinkedIn](https://www.linkedin.com/in/acortes-chicago/ "My LinkedIn profile")<br>
 Email me at <alexcortes995@gmail.com>
 
+---
 ## Additional Information
 I'm using Jekyll for this site, with Chirpy as a theme, I will provide links to both below.
 
