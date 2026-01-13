@@ -1,7 +1,7 @@
 ---
 title: Test Fixtures
 date: 2026-01-07
-categories: [Learning, Guides, Rails]
+categories: [Learning, Guides]
 tags: [rails, guides, learning, testing]
 ---
 
