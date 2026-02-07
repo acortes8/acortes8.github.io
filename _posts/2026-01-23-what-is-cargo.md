@@ -1,6 +1,6 @@
 ---
 title: What is Rust's Cargo?
-date: 2026-01-21
+date: 2026-01-23
 categories: [Learning, Guides]
 tags: [rust, cargo, guides, learning]
 ---
